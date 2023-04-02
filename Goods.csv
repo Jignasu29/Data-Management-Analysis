@@ -1,0 +1,50 @@
+Goods division,Goods name,Quantity ,Price,Expiry date
+Perishable,Fruits,43,72,23/2/2021
+Perishable,Beverage,43,23,3/2/2021
+Perishable,Meat,224,132,23/2/2021
+Perishable,Poultry,42,132,15/12/2022
+Non Perishable,Dairy Products,243,212,NULL
+Non Perishable,Feed,53,34,NULL
+Non Perishable,Auto parts,34,21,NULL
+Perishable,Vegetables,232,122,23/2/2021
+Perishable,Pharmaceuticals,867,12,12/1/2022
+Perishable,seafood,657,122,2/2/2022
+Perishable,Jelly,76,212,14/7/2022
+Non Perishable,Crude oil,87,122,NULL
+Non Perishable,car tires,54,34,NULL
+Perishable,cooked leftovers,87,45,18/6/2022
+Non Perishable,Wheat,856,75,NULL
+Non Perishable,Rice,45,78,NULL
+Perishable,Corn,98,75,1/19/2022
+Perishable,Breads,98,98,11/12/2022
+Non Perishable,Cake Mixes,87,176,NULL
+Non Perishable,Powdered Milk,867,23,NULL
+Perishable,Cooked grains,576,32,15/2/2022
+Perishable,Cottage cheese,56,42,19/5/2022
+Perishable,Lunch meats,45,134,1/1/2022
+Perishable,Stews,43,34,10/2/2022
+Perishable,Sauces,23,65,2/21/2022
+Perishable,Frosting,78,67,2/2/2022
+Non Perishable,Tea Bags,87,167,NULL
+Non Perishable,Syrup,48,55,NULL
+Perishable,Sour cream,96,76,11/2/2022
+Non Perishable,Baby Food & Cereal,59,45,NULL
+Perishable,Whey,46,45,2/2/2022
+Non Perishable,Granola Bars,85,23,NULL
+Perishable,Bakery,86,73,2/12/2022
+Non Perishable,Cereal Bars,975,85,NULL
+Non Perishable,Granulated Sugar,78,34,NULL
+Perishable,Pickles,456,164,12/2/2022
+Perishable,Flour,56,21,15/2/2022
+Non Perishable,Pancake mix,46,145,NULL
+Perishable,Edibles,75,35,17/5/2022
+Non Perishable,Nut butters,86,66,NULL
+Non Perishable,Dried fruits and vegetables,56,156,NULL
+Perishable,fried,45,16,1/20/2022
+Perishable,chocolate,56,34,2/8/2022
+Perishable,margarines,75,24,4/12/2022
+Non Perishable,dried soups,54,53,NULL
+Perishable, Instant food,54,156,1/20/2022
+Non Perishable,Freeze dried meals,67,177,NULL
+Perishable,fresh leaves,567,34,9/19/2022
+Non Perishable,nondairy milk,57,39,NULL

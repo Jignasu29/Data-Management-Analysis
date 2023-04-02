@@ -1,0 +1,61 @@
+﻿Man_id,Start date,End Date,Commission,T&C,agent_no
+15,2021-09-18,2026-02-01,11,Contract before end date penalty vaild,2
+51,2021-03-16,2022-01-11,2,Contract before end date penalty vaild,3
+33,2021-11-12,2023-03-16,3,Defective product can be dicarded,14
+21,2022-06-17,2023-02-09,23,Contract before end date penalty vaild,25
+20,2021-02-09,2023-12-29,3,Defective product can be dicarded,15
+4,2021-11-12,2023-09-18,1,Contract before end date penalty vaild,6
+50,2022-01-04,2025-06-17,2,Illegal products will be seized,8
+18,2021-09-18,2023-04-02,31,Illegal products will be seized,4
+27,2021-09-18,2023-11-12,1,Contract before end date penalty vaild,2
+32,2021-04-02,2022-01-04,2,Illegal products will be seized,8
+48,2021-03-16,2025-10-20,1,Defective product can be dicarded,17
+41,2021-02-01,2025-08-04,4,Illegal products will be seized,22
+10,2022-08-04,2024-02-01,5,Contract before end date penalty vaild,12
+52,2021-03-16,2026-01-11,34,Illegal products will be seized,2
+35,2021-01-11,2026-03-16,3,Defective product can be dicarded,23
+23,2021-01-04,2026-02-09,2,Issue verified certificate,20
+54,2021-03-16,2024-12-29,11,Illegal products will be seized,28
+1,2021-02-01,2024-09-18,2,Contract before end date penalty vaild,29
+3,2022-10-20,2025-06-17,3,Illegal products will be seized,19
+7,2021-01-11,2024-04-02,23,Defective product can be dicarded,17
+36,2021-04-02,2023-11-12,3,Illegal products will be seized,14
+19,2022-08-04,2025-01-04,1,Issue verified certificate,12
+30,2021-02-01,2025-10-20,2,Contract before end date penalty vaild,18
+25,2021-09-18,2025-08-04,31,Issue verified certificate,29
+14,2021-02-09,2023-02-01,1,Illegal products will be seized,27
+49,2022-01-04,2025-01-11,2,Defective product can be dicarded,15
+44,2022-06-17,2023-03-16,1,Issue verified certificate,12
+11,2021-04-02,2023-02-09,4,Contract dates can not be changed,10
+42,2022-10-20,2026-12-29,5,Contract before end date penalty vaild,8
+38,2022-08-04,2023-09-18,34,Contract dates can not be changed,7
+28,2022-06-17,2025-06-17,3,Defective product can be dicarded,16
+22,2021-02-01,2025-04-02,2,Contract dates can not be changed,3
+31,2021-12-29,2025-11-12,11,Issue verified certificate,18
+34,2022-10-20,2025-01-04,2,Defective product can be dicarded,21
+40,2021-02-09,2022-10-20,3,Contract dates can not be changed,28
+26,2021-03-16,2025-08-04,23,Defective product can be dicarded,30
+8,2021-12-29,2025-02-01,3,Contract dates can not be changed,1
+17,2021-02-09,2025-01-11,1,Defective product can be dicarded,5
+55,2021-01-11,2025-03-16,2,Contract dates can not be changed,8
+5,2021-01-04,2026-02-09,31,Defective product can be dicarded,19
+29,2021-01-11,2025-12-29,1,Issue verified certificate,20
+53,2022-06-17,2025-09-18,2,Defective product can be dicarded,14
+43,2021-12-29,2025-06-17,1,Contract dates can not be changed,11
+13,2021-09-18,2025-04-02,4,Defective product can be dicarded,10
+24,2021-11-12,2025-11-12,5,Contract dates can not be changed,3
+6,2021-02-09,2025-01-04,34,Defective product can be dicarded,7
+9,2021-04-02,2025-10-20,3,Issue verified certificate,16
+47,2021-01-11,2025-08-04,2,Contract dates can not be changed,25
+39,2022-10-20,2026-02-01,11,Issue verified certificate,3
+46,2021-12-29,2025-01-11,2,Issue verified certificate,30
+16,2022-06-17,2025-03-16,3,Contract dates can not be changed,21
+45,2021-02-01,2025-02-09,23,Defective product can be dicarded,28
+12,2021-11-12,2025-12-29,3,Issue verified certificate,4
+2,2021-12-29,2025-09-18,1,Contract dates can not be changed,1
+37,2022-08-04,2025-06-17,2,Contract dates can not be changed,10
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
